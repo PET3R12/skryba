@@ -1,5 +1,8 @@
 # Skryba | Repo description Generator
 
+> [!NOTE]
+> This repo is a copy of [original repository](https://github.com/knsiczarnamagia/wave4-skryba)on which the project was developed. 
+
 The project was implemented by members of [Czarna Magia](https://github.com/knsiczarnamagia) AI society.
 
 ![skryba](./images/skryba.png)
