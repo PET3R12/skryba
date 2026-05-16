@@ -1,0 +1,4 @@
+{
+    "data": "face expression recognizer jest to projekt koła naukowego Czarna Magia realizowanego w ramach fali projektowej WAVE2 polegającej na wspólnej sesji rozwijania projektów w trakcie semestru. W tym projekcie zastosowano technologie takie jak: pytorch (torch i torchvision), opencv, matplotlib, weight & biases. Dzięki wykorzystaniu ResNet18 uzyskano efekt w którym model był w stanie oczytać emocje z twarzy.",
+    "link": "https://github.com/knsiczarnamagia/face-expression-recognizer"
+}

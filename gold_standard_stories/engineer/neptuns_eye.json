@@ -1,0 +1,4 @@
+{
+  "data": "Neptune's Eye jest to projekt koła naukowego Czarna Magia realizowanego w ramach fali projektowej WAVE2 polegającej na wspólnej sesji rozwijania projektów w trakcie semestru. W tym projekcie zastosowano technologie takie jak: scikit-learn, kiwisolver, optuna, numpy, matplotlib, weight & biases. Dzięki wykorzystaniu takich modeli jak Random Forest oraz Extra Trees Classifier możliwe było osiągnięcie dokładności na poziomie prawie 80%.",
+  "link": "https://github.com/KTFish/neptuns-eye"
+}

@@ -1,0 +1,5 @@
+{
+    "category": "engineer",
+    "data": "Numerical Python to biblioteka języka Python służąca do obliczeń naukowych, szczególnie w zakresie algebry liniowej. Umożliwia m.in. operacje na macierzach, wyliczanie wyznacznika, średniej oraz mnożenie macierzy. Dzięki temu jest bardzo przydatna w analizie danych i uczeniu maszynowym, gdzie pozwala na efektywne wykonywanie operacji na tensorach. Biblioteka została napisana głównie w języku C, a dodatkowo wykorzystuje Cython i Fortran.",
+    "link" : "https://github.com/numpy/numpy"
+}

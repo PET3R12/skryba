@@ -1,0 +1,5 @@
+{
+    "category": "hr",
+    "data": "Mypy to narzędzie, które pozwala na automatyczne sprawdzanie poprawności typów danych w kodzie Python, co zwiększa jego jakość i bezpieczeństwo działania.",
+    "link" : "https://github.com/python/mypy"
+}

@@ -1,0 +1,5 @@
+{
+    "category": "engineer",
+    "data": "Matplotlib jest bardzo popularną biblioteką do pythona, dzięki której jesteśmy w stanie wizualizować dane i tworzyć wykresy. Biblioteka pozwala tworzyć szeroką gamę wykresów i zmieniać ich właściwości takie jak: kolory, style lini, etykiety osi, tytuły i legendy. Biblioteka ta jest często używana z bibliotekami takimi jak pandas i numpy, aby wizualizować tabele i analizy statystyczne.",
+    "link": "https://github.com/matplotlib/matplotlib"
+}

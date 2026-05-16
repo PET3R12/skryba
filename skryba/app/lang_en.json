@@ -1,0 +1,17 @@
+{
+  "title": "Skryba",
+  "token_error": "Unfortunately, the audio file could not be created, most likely the tokens have run out 😔",
+  "text_error": "Something went wrong with the story generation, please check if the link is correct 😔",
+  "link_error": "Are you sure this is a github link? 🤨",
+  "link_label": "Github link",
+  "button": "Generate story!",
+  "repo_name": "Repository name:",
+  "contributors": "List of contributors:",
+  "most_active": "Most active contributor:",
+  "least_active": "Least active contributor:",
+  "plang_list": "List of programming languages:",
+  "tags": "Tags:",
+  "lang_list": ["Polish", "English"],
+  "lang": "Language:",
+  "cache": "Regenerate story"
+}

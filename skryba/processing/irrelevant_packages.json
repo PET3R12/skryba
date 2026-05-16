@@ -1,0 +1,120 @@
+{
+  "Python": [
+    "os", "sys", "math", "datetime", "time", "random", "json", "re",
+    "subprocess", "threading", "collections", "typing", "pathlib",
+    "http", "unittest", "sys.builtin_module_names", "ctypes.wintypes",
+     "string", "windows", "ctypes", "win32event", "win32con",
+    "os.path", "__future__", "win32gui", "collections.abc",
+    "win32security", "win32process", "copy","any",
+    "shutil", "glob", "argparse", "logging", "socket", "queue", "functools",
+    "itertools", "csv", "hashlib", "tempfile", "platform", "uuid",
+    "email", "sqlite3", "xml", "asyncio", "configparser"
+  ],
+  "C": [
+    "<stdio.h>", "<stdlib.h>", "<string.h>", "<math.h>", "<time.h>", "<ctype.h>",
+    "<assert.h>", "<stdarg.h>", "<signal.h>", "<errno.h>", "<limits.h>",
+    "<float.h>", "<stdbool.h>", "<stddef.h>", "<inttypes.h>", "<locale.h>",
+    "<setjmp.h>", "<wchar.h>", "<threads.h>"
+  ],
+  "C++": [
+    "<iostream>", "<string>", "<vector>", "<map>", "<set>", "<algorithm>",
+    "<cmath>", "<thread>", "<chrono>", "<fstream>", "<memory>",
+    "<array>", "<deque>", "<list>", "<queue>", "<stack>", "<functional>",
+    "<numeric>", "<random>", "<mutex>", "<iterator>", "<bitset>", "<regex>",
+    "<filesystem>", "<optional>", "<variant>"
+  ],
+  "C#": [
+    "System", "System.IO", "System.Net", "System.Threading",
+    "System.Collections", "System.Linq", "System.Text",
+    "System.Diagnostics", "System.Reflection", "System.Runtime",
+    "System.Security", "System.Xml", "System.Data", "System.Configuration",
+    "System.Globalization", "System.Net.Http", "System.Threading.Tasks",
+    "System.Text.Json"
+  ],
+  "Java": [
+    "java.lang", "java.util", "java.io", "java.nio", "java.net",
+    "java.math", "java.time", "java.sql", "javax.swing",
+    "java.security", "java.util.concurrent", "java.text", "javax.xml",
+    "java.awt", "java.beans", "java.util.logging", "javax.crypto",
+    "java.util.regex", "java.rmi", "javax.management",
+    "java.util.stream", "java.time.chrono", "javax.net", "java.util.function"
+  ],
+  "JavaScript": [
+    "Array", "String", "Math", "Date", "RegExp", "Promise",
+    "Object", "Number", "Boolean", "Map", "Set", "JSON", "Symbol", "WeakMap",
+    "BigInt", "WeakSet", "ArrayBuffer"
+  ],
+  "TypeScript": [
+    "Array", "String", "Math", "Date", "RegExp", "Promise",
+    "Object", "Number", "Boolean", "Map", "Set", "JSON", "Symbol", "WeakMap",
+    "BigInt", "WeakSet", "ArrayBuffer"
+  ],
+  "Go": [
+    "fmt", "net/http", "os", "strings", "encoding/json", "sync", "time",
+    "io", "log", "math", "net", "path", "reflect", "runtime", "errors",
+    "bytes", "context", "encoding/xml", "flag", "testing", "regexp"
+  ],
+  "PHP": [
+    "PDO", "cURL", "mbstring", "json", "filter", "session", "date", "spl",
+    "xml", "hash", "openssl", "fileinfo", "tokenizer", "zlib", "pcre",
+    "gd", "simplexml", "soap", "intl"
+  ],
+  "Ruby": [
+    "fileutils", "pathname", "time", "date", "json", "uri", "net/http",
+    "logger", "digest", "csv", "thread", "socket", "openssl", "stringio",
+    "zlib", "yaml", "erb", "tempfile", "securerandom", "benchmark",
+    "optparse", "set", "shellwords", "psych"
+  ],
+  "Swift": [
+    "Foundation", "UIKit", "SwiftUI", "CoreData", "CoreGraphics",
+    "CoreFoundation", "Dispatch", "FileManager", "URLSession", "Combine",
+    "AVFoundation", "CoreLocation", "MapKit", "Security",
+    "CoreMotion", "GameKit", "CloudKit"
+  ],
+  "Kotlin": [
+    "kotlin.io", "kotlin.math", "kotlin.collections", "kotlin.text",
+    "kotlin.time", "kotlin.random", "kotlin.reflect", "kotlin.concurrent",
+    "kotlin.test", "kotlin.system", "kotlin.properties", "kotlin.sequences",
+    "kotlin.coroutines"
+  ],
+  "Rust": [
+    "std::collections", "std::fs", "std::io", "std::net",
+    "std::thread", "std::time", "std::sync",
+    "std::path", "std::process", "std::env", "std::ffi", "std::rc",
+    "std::cell", "std::fmt", "std::str", "std::error", "std::marker"
+  ],
+  "Objective-C": [
+    "Foundation", "UIKit", "CoreGraphics", "CoreData", "CoreFoundation",
+    "AVFoundation", "CoreLocation", "MapKit", "Security", "CFNetwork",
+    "CoreAnimation", "CoreText", "CoreAudio", "EventKit"
+  ],
+  "C/C++ Header": [
+    "<iostream>", "<string>", "<vector>", "<map>", "<set>", "<algorithm>",
+    "<cmath>", "<thread>", "<chrono>", "<fstream>", "<memory>",
+    "<array>", "<deque>", "<list>", "<queue>", "<stack>", "<functional>",
+    "<numeric>", "<random>", "<mutex>", "<iterator>",
+    "<stdio.h>", "<stdlib.h>", "<string.h>", "<math.h>", "<time.h>", "<ctype.h>",
+    "<complex>", "<stdatomic.h>"
+  ],
+  "Scala": [
+    "scala.collection", "scala.io", "scala.math", "scala.util",
+    "scala.concurrent", "scala.reflect", "scala.sys", "scala.runtime",
+    "scala.text", "scala.xml", "scala.annotation", "scala.jdk"
+  ],
+  "Perl": [
+    "strict", "warnings", "File::Spec", "Getopt::Long", "DBI",
+    "LWP::UserAgent", "JSON", "Time::Piece",
+    "Carp", "Exporter", "File::Basename", "Scalar::Util", "POSIX", "Data::Dumper",
+    "File::Path", "Text::ParseWords"
+  ],
+  "Shell": [
+    "cd", "ls", "cp", "mv", "rm", "mkdir", "rmdir", "echo",
+    "cat", "grep", "awk", "sed", "chmod", "chown", "find", "cut", "sort",
+    "test", "tee", "tr"
+  ],
+  "Batch": [
+    "cd", "dir", "copy", "move", "del", "mkdir", "rmdir", "echo",
+    "set", "if", "for", "goto", "type", "find", "findstr", "xcopy", "cls",
+    "ren", "path"
+  ]
+}

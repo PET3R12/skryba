@@ -1,0 +1,17 @@
+{
+  "title": "Skryba",
+  "token_error": "Niestety nie udało się utworzyć pliku audio, najprawdopodobniej skończyły się tokeny 😔",
+  "text_error": "Coś poszło nie tak z generowaniem historyjki, upewnij się, że link jest poprawny 😔",
+  "link_error": "Czy jesteś pewny, że jest to link do github'a? 🤨",
+  "link_label": "Link do Github'a",
+  "button": "Generuj historię!",
+  "repo_name": "Nazwa repozytorium:",
+  "contributors": "Lista kontrybutorów:",
+  "most_active": "Najaktywniejszy kontrybutor:",
+  "least_active": "Najmniej aktywny kontrybutor:",
+  "plang_list": "Lista języków programowania:",
+  "tags": "Tagi:",
+  "lang_list": ["Polski", "Angielski"],
+  "lang": "Język:",
+  "cache": "Wygeneruj historię na nowo"
+}

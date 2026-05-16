@@ -1,0 +1,5 @@
+{
+    "category": "engineer",
+    "data": "CPython to referencyjna implementacja języka Python napisana w C i udostępniana jako projekt open source. Umożliwia nie tylko uruchamianie kodu napisanego w Pythonie, ale także tworzenie bibliotek w języku C, które mogą bezpośrednio korzystać z API Pythona. Dzięki temu możemy pisać moduły działające znacznie szybciej niż ich odpowiedniki w czystym Pythonie. Przykładem praktycznego zastosowania CPythona jest tworzenie wysoko wydajnych bibliotek takich jak NumPy, pandas czy scikit-learn. Wiele kluczowych operacji w tych bibliotekach jest zaimplementowanych w C, co pozwala na znaczne przyspieszenie działania, zwłaszcza w przypadku przetwarzania dużych zbiorów danych.",
+    "link": "https://github.com/python/cpython"
+}

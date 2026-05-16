@@ -1,0 +1,5 @@
+{
+    "category": "engineer",
+    "data": "Pandas jest to biblioteka stworzona w języku Python. Służy do wykonywania operacji na tabelach i ich wizualizowaniu. Jest niezwykle popularna w data science, machine learningu i ogólnie pracy z danymi. Pandas posiada wiele przydatnych funkcji takich jak filtrowanie, sortowanie, czyszczenie danych, łatwe dodawanie i zapisywanie danych. Pandas zawiera również dwie unikalne struktury: Series i DataFrame. Pandas świetnie współpracuje z bibliotekami takimi jak numpy, matplotlib, seaborn.",
+    "link": "https://github.com/pandas-dev/pandas"
+}

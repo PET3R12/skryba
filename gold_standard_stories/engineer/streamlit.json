@@ -1,0 +1,5 @@
+{
+  "category": "engineer",
+  "data": "Streamlit to open source'owy projekt napisany w języku Python, służący do tworzenia interaktywnych aplikacji webowych. Oparty jest na architekturze serwer-klient i wykorzystuje takie technologie jak React oraz WebSocket. Biblioteka została napisana w sposób umożliwiający utrzymanie kodu czytelnym i przejrzystym. Twórcy projektu dają również możliwość udostpęnienia gotowych aplikacji na przygotowanej przez nich chmurze.",
+  "link": "https://github.com/streamlit/streamlit"
+}

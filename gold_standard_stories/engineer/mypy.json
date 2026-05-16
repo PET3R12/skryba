@@ -1,0 +1,5 @@
+{
+    "category": "engineer",
+    "data": "Mypy jest narzędziem do statycznej analizy typów w Pythonie. Celem mypy jest połączenie zalet dynamicznego oraz statycznego typowania. Mypy sprawdza typy w standardowych programach Python, uruchamianych za pomocą dowolnych interpreterów, przy czym praktycznie ich nie obciąża w czasie wykonywania.",
+    "link" : "https://github.com/python/mypy"
+}

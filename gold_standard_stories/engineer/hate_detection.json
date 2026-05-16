@@ -1,0 +1,4 @@
+{
+    "data": "hate detection jest to projekt koła naukowego Czarna Magia realizowanego w ramach fali projektowej WAVE1 polegającej na wspólnej sesji rozwijania projektów w trakcie semestru. W tym projekcie zastosowano technologie, takie jak: scikit learn, pandas, gradio, joblib. Uzyskaliśmy efekt w którym byliśmy w stanie wykryć mowę nienawiści w wiadomościach na serwerze discord.",
+    "link": "hate-detection"
+}

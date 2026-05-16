@@ -1,0 +1,5 @@
+{
+  "category": "hr",
+  "data": "Neptune’s Eye to projekt koła naukowego 'Czarna Magia', którego celem było stworzenie modelu do klasyfikowania danych przestrzennych. Projekt miał za zadanie wczytać chmurę punktów i przy pomocy modelu ML przeanalizować i dać każdemu punktowi etykietę typu: drzewo, dach, czy ziemia.",
+  "link": "https://github.com/KTFish/neptuns-eye"
+}

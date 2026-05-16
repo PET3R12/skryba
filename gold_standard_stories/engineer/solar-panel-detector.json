@@ -1,0 +1,5 @@
+{
+    "category": "engineer",
+    "data": "Solar-Panel-Detector to narzędzie służące do identyfikowania paneli słonecznych na zdjęciach satelitarnych. Jego działanie opiera się na sztucznej inteligencji, a do wykrywania obiektów wykorzystuje model YOLOv8. Projekt został napisany w języku Python, a do eksperymentów i analizy wyników wykorzystano Jupyter Notebook.",
+    "link" : "https://github.com/ArielDrabkin/Solar-Panel-Detector"
+}

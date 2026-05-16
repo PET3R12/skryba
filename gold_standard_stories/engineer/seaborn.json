@@ -1,0 +1,5 @@
+{
+    "category": "engineer",
+    "data": "Seaborn to biblioteka Pythona służąca do wizualizacji danych statystycznych. Jest oparta na matplotlib, ale oferuje bardziej przyjazny interfejs i atrakcyjne domyślne style grafik. Pozwala m.in. na tworzenie wykresów statystycznych(np. wykresy punktowe, liniowe, słupkowe, heatmapy), wizualizacje rozkładów danych(histogramy, wykresy gęstości) oraz analizę relacji między zmiennymi(wykresy regresji, korelacje). Jest szeroko stosowana w data science oraz analizie statystycznej. Współpracuje z takimi biblitekami jak Pandas bądź scikit-learn",
+    "link" : "https://github.com/mwaskom/seaborn"
+}

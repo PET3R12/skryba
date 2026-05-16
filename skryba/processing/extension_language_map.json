@@ -1,0 +1,21 @@
+{
+    ".py": "Python",
+    ".c": "C",
+    ".cpp": "C++",
+    ".cs": "C#",
+    ".java": "Java",
+    ".js": "JavaScript",
+    ".ts": "TypeScript",
+    ".go": "Go",
+    ".php": "PHP",
+    ".rb": "Ruby",
+    ".swift": "Swift",
+    ".kt": "Kotlin",
+    ".rs": "Rust",
+    ".m": "Objective-C",
+    ".h": "C/C++ Header",
+    ".scala": "Scala",
+    ".pl": "Perl",
+    ".sh": "Shell",
+    ".bat": "Batch"
+}

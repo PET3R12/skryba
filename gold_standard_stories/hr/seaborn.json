@@ -1,0 +1,5 @@
+{
+    "category": "hr",
+    "data": "Seaborn to biblioteka w Pythonie służąca do tworzenia wizualizacji danych statystycznych, często wykorzystywane w analizach danych i prezentacjach wyników. Biblioteka zawiera funkcje do tworzenia wykresów różnego typu (np.: słupkowe, skrzynkowe, czy gęstości), i funkcje do modyfikowania powstałych wykresów (zmiana kolorów/palety lub rotacja labeli) - takie modyfikowanie jest wygodne i pozwala zwiększyć czytelność wykresu.",
+    "link" : "https://github.com/mwaskom/seaborn"
+}

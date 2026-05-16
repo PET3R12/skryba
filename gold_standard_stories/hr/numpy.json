@@ -1,0 +1,5 @@
+{
+    "category": "hr",
+    "data": "Numerical Python to biblioteka wspierająca obliczenia naukowe, szczególnie w zakresie matematyki i analizy danych. Umożliwia szybkie i efektywne wykonywanie obliczeń na dużych zbiorach danych, co ma zastosowanie m.in. w uczeniu maszynowym czy pracy z danymi liczbowymi. Projekt pokazuje znajomość narzędzi wspierających precyzyjną analizę i optymalizację procesów obliczeniowych.",
+    "link" : "https://github.com/numpy/numpy"
+}

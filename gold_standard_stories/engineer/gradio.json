@@ -1,0 +1,5 @@
+{
+  "category": "engineer",
+  "data" : "Gradio to biblioteka Pythona, która umożliwia błyskawiczne tworzenie interaktywnych interfejsów webowych dla modeli ML i dowolnych funkcji, używając kilku linii kodu. Pozwala udostępniać dema poprzez publiczny URL lub hostować je za darmo na platformie Hugging Face Spaces, oferując również zaawansowane narzędzia jak edytor wizualny (Gradio Sketch) i ponad 30 komponentów UI. Działa na licencji open-source (Apache 2.0).",
+  "link" : "https://github.com/gradio-app/gradio"
+}

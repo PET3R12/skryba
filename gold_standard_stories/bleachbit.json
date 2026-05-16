@@ -1,0 +1,4 @@
+{   "category": "engineer",
+    "data": "BleachBit to darmowe, otwartoźródłowe narzędzie  napisane w języku python do czyszczenia systemu, które usuwa niepotrzebne pliki, historię przeglądania i dane tymczasowe, zwiększając prywatność i zwalniając miejsce na dysku. Oprogramowanie przetlłumaczono na wiele języków,w README widnieje wykres dokładnosci dla języków takich jak Polski, Angielski, Chiński, Hiszpański, których dokładnośc tłumaczenia przekracza 90%. Narzędzie jest przeznaczone dla systemów Windows i Linux, a jego kod źródłowy jest dostępny publicznie.",
+    "link": "https://github.com/bleachbit/bleachbit"
+}

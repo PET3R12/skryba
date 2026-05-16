@@ -1,0 +1,5 @@
+{
+    "category": "engineer",
+    "data": "WAVE3 Magical Drones to studencki projekt realizowany w KNSI Czarna Magia, którego celem było stworzenie modelu AI przekształcającego zdjęcia satelitarne w mapy. Projekt realizowano w fali projektowej WAVE3. Zespół zbudował własny dataset przy użyciu QGIS i przetestował różne architektury, ostatecznie wybierając zmodyfikowany CycleGAN. Całość projektu została napisana w języku Python, zarządzając zależnościami przez Poetry. Model wytrenowano w PyTorch Lightning, monitorując go za pomocą Weights & Biases. Gotowe rozwiązanie udostępniono przez Hugging Face. Efekt końcowy to działająca aplikacja webowa (Spring + Vercel) wykorzystująca konteneryzację w Dockerze.",
+    "link" : "https://github.com/knsiczarnamagia/wave3-magical-drones"
+}

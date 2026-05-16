@@ -1,0 +1,5 @@
+{
+  "category": "engineer",
+  "data" : "PyTorch to otwartoźródłowa biblioteka Pythona do głębokiego uczenia maszynowego (deep learning), wykorzystywana do budowy i trenowania sieci neuronowych. Dzięki wsparciu dla GPU(CUDA (NVIDIA), ROCm (AMD), Intel GPU), umożliwia szybkie obliczenia tensorowe, co czyni go świetnym narzędziem do analiz AI, NLP, rozpoznawania obrazów i innych zastosowań uczenia maszynowego. Jest jednym z najczęściej używanych frameworków AI. Cieszy się dużym wsparciem społeczności i jest wykorzystywany przez badaczy, firmy technologiczne oraz gigantów jak Facebook (Meta), OpenAI i Microsoft. Jest w większości napisany w języku Python ale posiada backend napisany w C++. Posiada wsparcie dla innych bibliotek Pythona takich jak: NumPy, SciPy, Cython.",
+  "link" : "https://github.com/pytorch/pytorch"
+}

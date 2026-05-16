@@ -1,0 +1,5 @@
+{
+    "category": "engineer",
+    "data": "WAVE3 House Prices to studencki projekt realizowany w ramach Koła Naukowego Sztucznej Inteligencji Czarna Magia. Jego celem była estymacja cen mieszkań na podstawie ich cech, takich jak metraż czy liczba pokoi, przy wykorzystaniu modeli predykcyjnych. Do trenowania modeli wykorzystano publiczny zbiór danych z platformy Kaggle. Projekt został zrealizowany w języku Python, z zastosowaniem narzędzi takich jak Makefile i Poetry do zarządzania środowiskiem i zależnościami. Modelowanie oparto na bibliotece scikit-learn, a jako finalny model wybrano GaussianProcessRegressor. W celu wizualizacji metryk porównujących różne modele, przygotowano wykresy z wykorzystaniem biblioteki Matplotlib.",
+    "link" : "https://github.com/knsiczarnamagia/wave3-house-prices"
+}

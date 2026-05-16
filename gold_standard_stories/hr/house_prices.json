@@ -1,0 +1,5 @@
+{
+    "category": "hr",
+    "data": "WAVE3 House Prices to studencki projekt realizowany w ramach Koła Naukowego Sztucznej Inteligencji Czarna Magia. Jego celem było stworzenie narzędzia do szacowania cen mieszkań na podstawie ich podstawowych cech, takich jak powierzchnia czy liczba pokoi. W projekcie wykorzystano rzeczywiste dane i skupiono się na porównaniu różnych metod przewidywania cen, aby znaleźć najdokładniejsze rozwiązanie. Efektem pracy jest model, który może wspierać decyzje np. w branży nieruchomości.",
+    "link" : "https://github.com/knsiczarnamagia/wave3-house-prices"
+}
